@@ -1,0 +1,157 @@
+.new-page {
+    position: relative;
+    height: 100vh;
+    background-color: black;
+  }
+  
+  .back-button {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 2px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .back-button:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+    transform: scale(1.1);
+  }
+  
+  .button-container {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    gap: 10px;
+  }
+  
+  .memo-button, .view-memo-button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 2px solid rgb(131, 126, 126);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .memo-button:hover, .view-memo-button:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+    transform: scale(1.1);
+  }
+  
+  .sky-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .sky-point {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .sky-line {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+  }
+  
+  .memo-popup, .view-memo-popup {
+    position: fixed;
+    bottom: 80px; /* 60px에서 80px로 변경 */
+    right: 20px;
+    width: 300px;
+    padding: 20px;
+    background-color: rgba(61, 60, 60,0.8);
+    border: 2px solid black;
+    border-radius: 10px;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .memo-popup textarea, .view-memo-popup textarea {
+    width: 100%;
+    height: 120px;
+    background-color: rgba(0, 0, 0, 0.5); /* 배경색에 투명도 적용 */
+    color: #fff; /* 텍스트 색 변경 */
+    border: 1px solid rgba(85, 85, 85, 0.5); /* 테두리 색에 투명도 적용 */
+    border-radius: 5px; /* 테두리 둥글기 추가 */
+    font-family: 'Arial', sans-serif; /* 폰트 변경 */
+    font-size: 16px; /* 폰트 크기 변경 */
+  }
+  
+  .memo-popup button, .view-memo-popup button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    color: #fff; /* 버튼 텍스트 색 */
+    background-color: rgba(0, 0, 0, 0.5); /* 버튼 배경색 */
+    border: 1px solid #fff; /* 버튼 테두리 색 */
+    border-radius: 5px; /* 버튼 테두리 둥글기 */
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .memo-popup button:hover, .view-memo-popup button:hover {
+    background-color: rgba(255, 255, 255, 0.5); /* 버튼 배경색 (호버 시) */
+    color: #000; /* 버튼 텍스트 색 (호버 시) */
+  }
+  
+  .popup-buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* 추가된 스타일 */
+.control-panel {
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.7); /* 박스 배경색에 투명도 적용 */
+    padding: 10px;
+    border-radius: 5px;
+    color: white; /* 텍스트 색 */
+    font-family: 'Arial', sans-serif; /* 폰트 변경 */
+  }
+  
+  .control-panel label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .control-panel input[type="range"] {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .control-panel button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    color: #fff; /* 버튼 텍스트 색 */
+    background-color: rgba(0, 0, 0, 0.5); /* 버튼 배경색 */
+    border: 1px solid #fff; /* 버튼 테두리 색 */
+    border-radius: 5px; /* 버튼 테두리 둥글기 */
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .control-panel button:hover {
+    background-color: rgba(255, 255, 255, 0.5); /* 버튼 배경색 (호버 시) */
+    color: #000; /* 버튼 텍스트 색 (호버 시) */
+  }
