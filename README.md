@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# 별 헤는 밤
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+별 헤는 밤’은 밤하늘에 별자리를 그리고, 그 별자리에 메모를 달아 만드는 롤링페이퍼입니다
 
-## Available Scripts
+## 프로젝트 소개
 
 In the project directory, you can run:
 
