@@ -50,19 +50,23 @@ BackEnd
     - 취소하고 싶다면, 지우고 싶은 선의 두 끝 별을 선택하면 됩니다.
     - 다른 별자리에 이미 포함된 별을 선택하면 에러메세지를 띄웁니다.
     - 별자리를 완성했으면, 메모 추가 버튼을 눌러 메모를 작성하고 저장합니다.
-  ![React App 외 페이지 4개 - 개인 - Microsoft_ Edge 2024-07-25 20-40-43](https://github.com/user-attachments/assets/d934c7c1-b926-43da-94e1-7ca50a024bfe)
- ![React App 외 페이지 4개 - 개인 - Microsoft_ Edge 2024-07-25 20-40-12 (1)](https://github.com/user-attachments/assets/f603d231-31fb-48f3-8777-ffd74eae38a1)
+   ![React App 외 페이지 4개 - 개인 - Microsoft_ Edge 2024-07-25 20-40-43](https://github.com/user-attachments/assets/d934c7c1-b926-43da-94e1-7ca50a024bfe)
+
+   ![React App 외 페이지 4개 - 개인 - Microsoft_ Edge 2024-07-25 20-40-12 (1)](https://github.com/user-attachments/assets/f603d231-31fb-48f3-8777-ffd74eae38a1)
 
 - 3. 롤링페이퍼 확인
     - 시작화면에서 nickname과 roomname을 입력하여 다른 사람들이 그린 그림을 받아 볼 수 있습니다.
     - 별을 선택하면 해당 별이 속한 별자리에 기록된 메모를 볼 수 있습니다.
-![React App 외 페이지 4개 - 개인 - Microsoft_ Edge 2024-07-25 20-43-07](https://github.com/user-attachments/assets/13f5b93e-87ef-470a-80f0-a59bb48adbb2)
+    - 
+  ![React App 외 페이지 4개 - 개인 - Microsoft_ Edge 2024-07-25 20-43-07](https://github.com/user-attachments/assets/13f5b93e-87ef-470a-80f0-a59bb48adbb2)
 
 
  
 - front NG
-![React App 외 페이지 1개 - 개인 - Microsoft_ Edge 2024-07-24 03-57-00 (2)](https://github.com/user-attachments/assets/8b8c05fd-ce45-4a03-8073-1639c8acae16)
-![React App 외 페이지 1개 - 개인 - Microsoft_ Edge 2024-07-24 04-00-24](https://github.com/user-attachments/assets/2d4975f2-df61-4cfe-8bed-7c8a0f3ab55d)
+  
+  ![React App 외 페이지 1개 - 개인 - Microsoft_ Edge 2024-07-24 03-57-00 (2)](https://github.com/user-attachments/assets/8b8c05fd-ce45-4a03-8073-1639c8acae16)
+
+  ![React App 외 페이지 1개 - 개인 - Microsoft_ Edge 2024-07-24 04-00-24](https://github.com/user-attachments/assets/2d4975f2-df61-4cfe-8bed-7c8a0f3ab55d)
 
 
 
