@@ -12,8 +12,8 @@
 - 애완동물에서 더 확장해 생각해보니 몰입캠프의 종료와 함께 롤링페이퍼를 작성하는 것이 생각났습니다. 롤링페이퍼를 별자리에 남긴다면 새롭고 더욱 즐거운 형태가 될 수 있을 것 같아 개발하게 되었습니다.
 
 ### 팀원
-https://github.com/kimjinhwan0
-https://github.com/abrastone
+ https://github.com/kimjinhwan0
+ https://github.com/abrastone
 
 ### Using Stack
  FrontEnd
@@ -43,6 +43,7 @@ BackEnd
     - 각 별은 크기, 색, 위치, 깜빡이는 주기가 랜덤하게 설정됩니다.
     - 별 사이의 거리가 너무 가까우면 보기 어렵기 때문에 이 부분에 주의하여 랜덤생성했다.
     - ![image](https://github.com/user-attachments/assets/35d01e00-5667-494f-a533-0dd2b4dfd699)
+
  
 - 2. 별자리 그리고 메모 추가하기
     - 작성하고 싶은 롤링페이퍼 이름을 입력하고 ‘방 들어가기’ 버튼을 눌러 롤링페이퍼에 접속합니다.
@@ -54,6 +55,7 @@ BackEnd
 
    ![React App 외 페이지 4개 - 개인 - Microsoft_ Edge 2024-07-25 20-40-12 (1)](https://github.com/user-attachments/assets/f603d231-31fb-48f3-8777-ffd74eae38a1)
 
+
 - 3. 롤링페이퍼 확인
     - 시작화면에서 nickname과 roomname을 입력하여 다른 사람들이 그린 그림을 받아 볼 수 있습니다.
     - 별을 선택하면 해당 별이 속한 별자리에 기록된 메모를 볼 수 있습니다.
@@ -61,8 +63,7 @@ BackEnd
   ![React App 외 페이지 4개 - 개인 - Microsoft_ Edge 2024-07-25 20-43-07](https://github.com/user-attachments/assets/13f5b93e-87ef-470a-80f0-a59bb48adbb2)
 
 
- 
-- front NG
+### front NG
   
   ![React App 외 페이지 1개 - 개인 - Microsoft_ Edge 2024-07-24 03-57-00 (2)](https://github.com/user-attachments/assets/8b8c05fd-ce45-4a03-8073-1639c8acae16)
 
