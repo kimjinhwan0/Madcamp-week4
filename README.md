@@ -3,68 +3,33 @@
 별 헤는 밤’은 밤하늘에 별자리를 그리고, 그 별자리에 메모를 달아 만드는 롤링페이퍼입니다
 
 ## 프로젝트 소개
+- 별 헤는 밤’은 밤하늘에 별자리를 그리고, 그 별자리에 메모를 달아 만드는 롤링페이퍼입니다.
 
-In the project directory, you can run:
+### 개발 동기
 
-### `npm start`
+- 저는 별을 보며 힐링하는 것을 좋아합니다. 별을 보다보면 별들을 연결해 나만의 별자리를 만들고 싶은 생각이 들곤 했습니다. 별자리에 얽힌 신화들처럼 나만의 별자리에 이야기를 붙이면 재미있을 것 같았습니다.
+- 신화에는 죽은 동물, 사람들을 별자리로 만드는 이야기가 많습니다. 이와 비슷하게 기르던 애완동물이 죽었을 때, 애완동물을 닮은 별자리를 그리고 추억을 이야기로 남긴다면 어떨까?라는 생각에서 시작했습니다.
+- 애완동물에서 더 확장해 생각해보니 몰입캠프의 종료와 함께 롤링페이퍼를 작성하는 것이 생각났습니다. 롤링페이퍼를 별자리에 남긴다면 새롭고 더욱 즐거운 형태가 될 수 있을 것 같아 개발하게 되었습니다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 팀원
+https://github.com/kimjinhwan0
+https://github.com/abrastone
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Using Stack
+ FrontEnd
+- React
 
-### `npm test`
+BackEnd
+- Tool: Node.js
+- Server: kcloud
+- DB: mongoDB
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### About
+![image](https://github.com/user-attachments/assets/6624dbf6-047e-4507-8e22-0d4b97cc8b6e)
+- 하단에는 ‘별자리’ 버튼과 ‘롤링페이퍼’ 버튼이 있습니다.
+- 배경의 별이 깜빡이며, 가끔 별똥별도 떨어지는 모습을 담고 있습니다.
+- 넙죽이와 거위가 떠 있는데, 넙죽이를 클릭하면 도망가는 이스터에그가 있습니다.
 
-### `npm run build`
+- 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
